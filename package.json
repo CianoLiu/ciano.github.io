@@ -2,7 +2,7 @@
     "name": "Ciano-blog",
     "title": "Ciano Blog",
     "version": "1.0.0",
-    "homepage": "http://cianoliu.github.io",
+    "homepage": "https://cianoliu.github.io",
     "author": "Ciano",
     "devDependencies": {
         "grunt": "~0.4.5",
